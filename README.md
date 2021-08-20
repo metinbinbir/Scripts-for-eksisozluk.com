@@ -1,5 +1,5 @@
 # Scripts-for-eksisozluk.com-using-Python
-Some scripts to unblock users, remove entries from favorites, and delete all direct messages on eksisozluk.com with Selenium library.
+Some scripts to unblock users, remove entries from favorites, delete all direct messages, and delete all entries on eksisozluk.com with Selenium library.
 <br>
 
 <b>USAGE</b><br>
